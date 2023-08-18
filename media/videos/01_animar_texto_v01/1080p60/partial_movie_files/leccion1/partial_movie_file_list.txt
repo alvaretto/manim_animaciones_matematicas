@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/ia/Insync/alvaroangelm@iepedacitodecielo.edu.co/Google Drive/Proyectos GitHub/Manim_Animaciones_Matematicas/media/videos/01_animar_texto_v01/1080p60/partial_movie_files/leccion1/1413466013_3073779459_3430348860.mp4'
